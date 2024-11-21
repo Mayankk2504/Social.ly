@@ -3,6 +3,8 @@
 export const message = {
     idNotFoundMessage: "Please provide user id'",
     userNotFoundMessage: "User not found",
+    userExistsMessage: "User already exists",
+    usernameExistsMessage: "Username already exists",
     userAlreadyVerifiedMessage: "User already verified",
     otpAttemptsExceededMessage: "Too many attempts. Please try again later",
     otpNotFoundMessage: "Please provide otp",
